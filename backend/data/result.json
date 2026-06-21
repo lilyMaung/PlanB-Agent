@@ -1,0 +1,20 @@
+{
+  "status": "done",
+  "options": [
+    {
+      "title": "Book a Private Chef for a Romantic Dinner at Home",
+      "description": "CHEFIN offers same-day or last-minute bookings for a personal chef who comes to your home, brings all the ingredients, prepares a multi-course romantic dinner, and cleans up afterward \u2014 giving you a fully immersive fine-dining experience in a private, intimate setting. Their Romantic Dinner package can include champagne, candles, and rose setups, making it arguably more special and personalized than any restaurant.",
+      "why_it_works": "This solves the 'no reservation available' problem entirely by bringing a restaurant-quality experience directly to you, and last-minute bookings are explicitly supported.",
+      "url": "https://chefin.com/product/romantic-dinner/",
+      "outreach": {
+        "label": "Ready-to-edit draft - review before sending. Nothing has been sent.",
+        "extracted": {
+          "contact_name": "CHEFIN Inc.",
+          "contact_method": "booking@chefin.com",
+          "deadline": ""
+        },
+        "email_draft": "Hi CHEFIN Inc.,\n\nMy anniversary dinner reservation was just cancelled tonight and I'm hoping you might be able to help me salvage the evening. I'd love to have a private chef come to my home to create a special romantic dinner for two. Could you let me know if you have any availability for tonight and what options might be possible on short notice? I'd be grateful for any help you can offer to make this anniversary memorable despite the last-minute circumstances."
+      }
+    }
+  ]
+}
