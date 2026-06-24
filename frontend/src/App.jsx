@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 
-const API_BASE = import.meta.env.VITE_API_BASE || "http://127.0.0.1:5002";
+const API_BASE = import.meta.env.VITE_API_BASE || "";
 const POLL_INTERVAL_MS = 1500;
 
 const REASONING_LINES = [
