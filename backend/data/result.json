@@ -2,18 +2,18 @@
   "status": "done",
   "options": [
     {
-      "title": "Book a Private Chef for a Romantic Dinner at Home",
-      "description": "CHEFIN offers same-day or last-minute bookings for a personal chef who comes to your home, brings all the ingredients, prepares a multi-course romantic dinner, and cleans up afterward \u2014 giving you a fully immersive fine-dining experience in a private, intimate setting. Their Romantic Dinner package can include champagne, candles, and rose setups, making it arguably more special and personalized than any restaurant.",
-      "why_it_works": "This solves the 'no reservation available' problem entirely by bringing a restaurant-quality experience directly to you, and last-minute bookings are explicitly supported.",
-      "url": "https://chefin.com/product/romantic-dinner/",
+      "title": "Join the Meeting Virtually via Zoom",
+      "description": "Contact your meeting organizer immediately to explain your situation and request to attend remotely via Zoom. Most business meetings can be adapted to a hybrid or fully virtual format on short notice, letting you participate in real time from wherever you are without needing to travel at all.",
+      "why_it_works": "A virtual meeting eliminates travel entirely, making it the fastest and most reliable solution when transportation falls through unexpectedly.",
+      "url": "https://zoom.us/meetings",
       "outreach": {
         "label": "Ready-to-edit draft - review before sending. Nothing has been sent.",
         "extracted": {
-          "contact_name": "CHEFIN Inc.",
-          "contact_method": "booking@chefin.com",
+          "contact_name": "Zoom Sales",
+          "contact_method": "https://zoom.us/contactsales",
           "deadline": ""
         },
-        "email_draft": "Hi CHEFIN Inc.,\n\nMy anniversary dinner reservation was just cancelled tonight and I'm hoping you might be able to help me salvage the evening. I'd love to have a private chef come to my home to create a special romantic dinner for two. Could you let me know if you have any availability for tonight and what options might be possible on short notice? I'd be grateful for any help you can offer to make this anniversary memorable despite the last-minute circumstances."
+        "email_draft": "Hi Zoom Sales,\n\nMy flight to Chicago has been cancelled and I have an important meeting there that I cannot miss. I'd like to explore joining the meeting virtually via Zoom so I can still participate without being physically present. Could you help me get set up quickly, referencing case number 15-24641, so I can attend remotely without disruption?\n\nThank you"
       }
     }
   ]
