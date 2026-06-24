@@ -19,6 +19,8 @@
 
 ---
 
+<img width="1166" height="998" alt="image" src="https://github.com/user-attachments/assets/63aeb055-e236-4c74-ba46-a85c77b99dce" />
+
 ## The problem
 
 Life doesn't always go our way. What happens when your Plan A doesn't work out?
@@ -30,6 +32,9 @@ Everybody should have a Plan B but it's overwhelming to think about one when you
 ## What it does
 
 Plan B is a two-agent system. You describe what fell through, in plain language. One agent figures out the real shape of your problem. The other goes out, searches the live web, verifies a real way to act exists, and drafts a ready-to-edit outreach message — never showing you anything it couldn't confirm is real.
+
+<img width="528" height="556" alt="Screenshot 2026-06-20 at 11 37 25 PM" src="https://github.com/user-attachments/assets/b9ec46c3-124a-4fb4-87ce-f377b421c447" />
+
 
 ## Meet the agents
 
